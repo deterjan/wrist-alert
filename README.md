@@ -40,3 +40,14 @@ This file was also uploaded to this repository for archival purposes
 * The circuit rests on two mini breadboards attached to a sweatband.
 
 ## Pictures
+![wrist1](https://user-images.githubusercontent.com/7872499/145694231-3ab6d688-b87c-462f-b586-8eff4f4b35cc.jpg)
+WristAlert worn by a user (me!)
+
+![bb1](https://user-images.githubusercontent.com/7872499/145694305-32284cbf-01f1-48be-aedf-852e735caa91.jpg)
+A view of the first breadboard.
+
+![bb2](https://user-images.githubusercontent.com/7872499/145694317-4a2383d6-82db-4eb4-bec5-1cb17242a3d5.jpg)
+A view of the second breadboard.
+
+## Lessons Learned
+
