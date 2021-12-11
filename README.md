@@ -32,7 +32,7 @@ WristAlert's interaction with medical devices
 ## Implementation
 * A Raspberry Pi Pico sits at the center of the device, connected to other components via GPIOs and UART. It runs a simple MicroPython program ([entry.py](https://github.com/deterjan/wrist-alert/blob/main/entry.py)) to receive data from the HC06 Bluetooth adapter, check the received data, print it on the SSD1306 screen and activate the vibrating discs if necessary.
 * The HC06 bluetooth adapter is connected to the Raspberry Pi Pico by UART. It forwards received values to the Pico for processing.
-* The SSD1306 screen is driven by the Pico using a library provided by Micropython [here](https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py). This library file was uploaded to this repository for archival purposes.
+* The SSD1306 screen is driven by the Pico using a library provided by Micropython [here](https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py). This library file was also uploaded to this repository for archival purposes.
 * The vibrating motors and pushbuttons are connected to the Pico via GPIO ports.
 * The circuit rests on two mini breadboards attached to a sweatband.
 
