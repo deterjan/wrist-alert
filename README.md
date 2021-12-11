@@ -1,5 +1,5 @@
 # WristAlert: Emergency Caregiver Bracelet
-by Deniz Ulusel
+by Deniz Ulusel, for COMP_ENG 495: Wearable and Mobile Computing at Northwestern University.
 
 ## Summary
 The toll taken by having to be vigilant at nighttime on home caregivers is a well researched issue 
